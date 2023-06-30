@@ -1,0 +1,144 @@
+.box{
+    display: flex;
+    margin-top: 40px;
+    margin-left: 180px;
+    border: 2px solid black;
+    width: 965px;
+    height: 575px;
+}
+.o1{
+    /* background-color: aqua; */
+    border: 2px solid black;
+    width: 665px;
+    height: 575px;
+}
+.o2{
+    /* background-color: yellow; */
+    border: 2px solid black;
+    width: 300px;
+    height: 575px;
+}
+.il{
+    display: inline;
+}
+.shadow{
+    text-align: center;
+    box-shadow: 5px 0px #777777;
+}
+.roww{
+    font-size: 2em;
+}
+.rc{
+    color: red;
+}
+.grey{
+    color: grey;
+}
+.blue{
+    color: blue;
+}
+.black{
+    color: black;
+}
+.y{
+    padding: 5px 5px 5px 5px;
+    background-color: white;
+}
+.db{
+    padding: 5px 5px 2px 5px;
+    background-color: darkblue;
+}
+.container{
+    display: flex;
+}
+.tdd{
+    width: 150px;
+}
+.tpx{
+    padding: 0px 0px 0px 25px;
+}
+.ttpx{
+    padding: 0px 0px 0px 25px;
+}
+.tdn{
+    text-decoration: none;
+}
+.ls{
+    line-height: 0px;
+}
+.margin{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.mm{
+    margin-top: 40px;
+}
+.mm1{
+    position: absolute;
+    margin-left: 10px;
+}
+.r1{
+    text-align: left;
+     padding: 0px 0px 0px 16px;
+    
+}
+.r2{
+    text-align: right;
+    padding: 0px 0px 0px 15px;
+}
+.onelast{ 
+    margin-top:  455px;
+    position: absolute;
+    margin-left: 20px;
+}
+table.bsz{
+    border-spacing: 0px 0px;
+}
+.subtwo{
+    background-color: blue;
+    height: 70px;
+    width: 300px;
+    margin-top: 45px;
+}
+.t2{
+    padding-top: 75px;
+    padding-left: 12px;
+}
+.twotable2{
+    border-spacing: 0px 0px;
+}
+.twotable21{
+    background-color: red;
+    padding: 0px 5px 0px 10px;
+}
+.red{
+    background-color: red;
+}
+.pad{
+    margin-left: 10px;
+    margin-top: 5px;
+}
+.aqua{
+    height: 20px;
+    width: 300px;
+    background-color: aqua;
+}
+.sl3{
+    margin-top: 110px;
+}
+.cc1{
+    padding: 0px 30px 0px 20px;
+}
+.cc{
+    padding: 10px 30px 10px 0px;
+}
+.ccc1{
+    padding: 0px 50px 0px 10px;
+}
+.ccc{
+    padding: 10px 50px 10px 20px;
+}
+.sl2{
+    margin-top: 10px;
+    margin-left: 10px;
+}
